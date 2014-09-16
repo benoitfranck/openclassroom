@@ -1,3 +1,17 @@
 body{
-    background-color: #000;
+    background-color: #bbb;
+}
+
+.titre {
+	margin-left: 15px;
+	font-size: 1.2em;
+}
+
+.paragraphe {
+	font-size: 0.5em;
+	padding-bottom: 5px;
+}
+
+.menu{
+	text-decoration: none;
 }
